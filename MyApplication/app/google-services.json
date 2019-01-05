@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "598852931463",
+    "firebase_url": "https://mytaxi-2ae90.firebaseio.com",
+    "project_id": "mytaxi-2ae90",
+    "storage_bucket": "mytaxi-2ae90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598852931463:android:66da0a8fcb9b0bd6",
+        "android_client_info": {
+          "package_name": "com.example.pavithra.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598852931463-1gbcijvltbvj6hc2q0n5hcqoaaojsjp8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCGS8vp_ol4DpFghnGXc41i2qX2gEQikk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
